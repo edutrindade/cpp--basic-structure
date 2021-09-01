@@ -1,0 +1,36 @@
+{
+    "name": "cpp--basic-structure",
+    "displayName": "C++ Basic Structure",
+    "description": "A simple extension for you to start your project in C ++ with the printing of special characters in VSCode.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "cpp.code-snippets"
+    ],
+    "publisher": "edutrindade",
+    "icon": "logo.png",
+    "galleryBanner": {
+      "color": "#23282B",
+      "theme": "dark"
+    },
+    "keywords": [
+      "c++",
+      "cpp",
+      "snippet",
+      "include",
+      "c++snippet",
+      "cppsnippet"
+    ],
+    "repository": {
+      "url": "https://github.com/edutrindade/cpp--basic-structure"
+    },
+    "homepage": "https://github.com/edutrindade/cpp--basic-structure",
+    "bugs": {
+      "url": "https://github.com/edutrindade/cpp--basic-structure/issues"
+    }
+}

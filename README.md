@@ -8,7 +8,7 @@ You can save time on your studies by ensuring your code output looks better.
 
 <br>
 <p align="center">
-<img src="example.png"/>
+<img src="https://github.com/edutrindade/cpp--basic-structure/raw/master/example.png"/>
 <br>
 
 * To use it's simple: create a new cpp file and type the `cpp` snippet to insert the structure.
